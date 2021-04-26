@@ -12,6 +12,8 @@ It is worth noting that the recommendations from different guidelines are very o
 
 ## Abstract
 
+### General abstract
+
 The tense of the Abstract is basically in line with the tense use in the body of the manuscript.
 
 - Abstract is generally in the **present tense**.
@@ -67,6 +69,46 @@ Example 2:
 > Together, our results indicate that RNA methylation provides a protective effect in maintaining cellular integrity by clearing reactive ERV-derived RNA species, which may be especially important when transcriptional silencing is less stringent.
 >
 > [Nature](https://www.nature.com/articles/s41586-020-03135-1)
+
+### Structured abstract
+
+- **Introduction** ==> **simple present tense**.
+
+Example:
+
+> Many pregnant persons in the United States are receiving messenger RNA (mRNA) coronavirus disease 2019 (Covid-19) vaccines, but data are limited on their safety in pregnancy.
+>
+> [N. Engl. J. Med.](https://www.nejm.org/doi/full/10.1056/NEJMoa2104983)
+
+- **Methods** ==> **past tense**.
+
+Example:
+
+> From December 14, 2020, to February 28, 2021, we used data from the “v-safe after vaccination health checker” surveillance system, the v-safe pregnancy registry, and the Vaccine Adverse Event Reporting System (VAERS) to characterize the initial safety of mRNA Covid-19 vaccines in pregnant persons.
+>
+> [N. Engl. J. Med.](https://www.nejm.org/doi/full/10.1056/NEJMoa2104983)
+
+- **Results** ==> **past tense**.
+
+Example:
+
+> A total of 35,691 v-safe participants 16 to 54 years of age identified as pregnant. Injection-site pain was reported more frequently among pregnant persons than among nonpregnant women, whereas headache, myalgia, chills, and fever were reported less frequently.
+>
+> [N. Engl. J. Med.](https://www.nejm.org/doi/full/10.1056/NEJMoa2104983)
+
+- **Conclusion** ==> **past tense** to state the research conclusion, and **simple present tense** to provide context.
+
+Example 1:
+
+> Preliminary findings did not show obvious safety signals among pregnant persons who received mRNA Covid-19 vaccines. 
+>
+> [N. Engl. J. Med.](https://www.nejm.org/doi/full/10.1056/NEJMoa2104983)
+
+Example 2:
+
+> However, more longitudinal follow-up, including follow-up of large numbers of women vaccinated earlier in pregnancy, is necessary to inform maternal, pregnancy, and infant outcomes.
+>
+> [N. Engl. J. Med.](https://www.nejm.org/doi/full/10.1056/NEJMoa2104983)
 
 ## Introduction
 
