@@ -72,6 +72,8 @@ Example 2:
 
 ### Structured abstract
 
+- **Purpose** ==> **past tense**.
+
 - **Introduction** ==> **simple present tense**.
 
 Example:
