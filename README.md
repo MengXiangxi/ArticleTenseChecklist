@@ -1,3 +1,5 @@
+> Now continues at my [blog post](https://mengxiangxi.info/BLOG/research/2022/02/07/Article-tense-checklist.html).
+
 # Article Tense Checklist
 
 There used to be several guidelines on the internet which included some kind of a checklist, to indicate which tense is to be used in a specific situation. However, they sadly disappeared from the first page of Google. So I decided to build my own, and supply them with examples whenever possible.
